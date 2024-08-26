@@ -1,6 +1,6 @@
 # Data Warehouse
 
-# OLTP Vs OLAP
+## OLTP Vs OLAP
 | Aspect                   | OLTP (Online Transaction Processing)                    | OLAP (Online Analytical Processing)                                       |
 |--------------------------|---------------------------------------------------------|---------------------------------------------------------------------------|
 | **Purpose**              | Control and run essential business operations in real time | Plan, solve problems, support decisions, discover hidden insights         |
@@ -12,7 +12,7 @@
 | **Data View**            | Lists day-to-day business transactions                  | Multi-dimensional view of enterprise data                                 |
 | **User Examples**        | Customer-facing personnel                               | Data analysts, business analysts, etc.                                    |
 
-# Partitioning Vs Clustering
+## Partitioning Vs Clustering
 A partitioned table is a table divided to sections by partitions. Dividing a large table into smaller partitions allows for improved performance and reduced costs by controlling the amount of data retrieved from a query.
 
 Clustering sorts the data based on one or more columns in the table. The order of the clustered columns determines the sort order of the data. Clustering can improve the performance of certain types of queries, such as queries that use filter clauses and queries that aggregate data. Clustering is useful when the cardinality of the number of values in a column or a group or columns is large.
