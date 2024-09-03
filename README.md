@@ -1,14 +1,14 @@
 # Data-Engineering
 
 This repository provides a basic overview of Data Engineering.
-Below is a summary and breakdown of key topics & tool I've learnt.
+Below is a summary and breakdown of key topics & tools I've learnt.
 
 ## Table of Contents
-1. [Docker & Terraform](#Docker_Terraform)
-2. [Workflow Orchestration](#WorkflowOrchestration)
-3. [Data Warehouse](#DataWarehouse)
-4. [Analytics Engineering](#AnalyticsEngineering)
-5. [Batch Processing](#BatchProcessing)
+1. [Docker & Terraform]
+2. [Workflow Orchestration]
+3. [Data Warehouse]
+4. [Analytics Engineering]
+5. [Batch Processing]
 
 ## Docker & Terraform
 - Introduction to Docker & containeraization
