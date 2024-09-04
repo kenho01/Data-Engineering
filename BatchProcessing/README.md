@@ -14,4 +14,4 @@
 ## Joins in Spark
 - Likewise, a Join statement in Spark first create a key value pair for the records in the respective tables before performing a data shuffle to join the data based on their key.
 
-[!Joins](./images/joins.png)
+![Joins](./images/joins.png)
