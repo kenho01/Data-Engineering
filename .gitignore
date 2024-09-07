@@ -39,4 +39,15 @@ terraform.rc
 # Ignore JSON files
 *.json
 
+# Virtual environment 
 .DS_Store
+.idea
+dataeng/
+
+# Ignore folders
+Docker_Terraform/docker_sql/ny_taxi_postgres_data/
+WorkflowOrchestration/mage-zoomcamp/
+
+*.duckdb
+*.duckdb.wal
+
